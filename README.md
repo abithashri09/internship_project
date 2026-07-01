@@ -120,7 +120,7 @@ The Gold layer is designed for analytics using a **Star Schema**.
 - Star Schema Modeling
 - SQL Data Transformation
 - Tableau Dashboard Development
-- Microsoft Fabric Integration
+
 
 ---
 
