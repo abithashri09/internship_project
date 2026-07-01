@@ -39,11 +39,11 @@ Tableau Dashboards
 
 ---
 
-##  Bronze Layer
+Bronze Layer
 
 The Bronze layer stores raw data from the Olist dataset without modifications.
 
-**Activities**
+Activities:
 - Data ingestion
 - Null value checks
 - Duplicate checks
@@ -51,11 +51,11 @@ The Bronze layer stores raw data from the Olist dataset without modifications.
 
 ---
 
-##  Silver Layer
+Silver Layer
 
 The Silver layer cleans and transforms the raw data.
 
-**Activities**
+Activities:
 - Handle missing values using `COALESCE()`
 - Standardize data
 - Create cleaned tables
@@ -63,11 +63,11 @@ The Silver layer cleans and transforms the raw data.
 
 ---
 
-## Gold Layer
+Gold Layer
 
-The Gold layer is designed for analytics using a **Star Schema**.
+The Gold layer is designed for analytics using a Star Schema.
 
-**Tables Created**
+Tables Created:
 - DIM_CUSTOMER
 - DIM_PRODUCT
 - DIM_SELLER
@@ -77,17 +77,18 @@ The Gold layer is designed for analytics using a **Star Schema**.
 
 ---
 
-##  Tableau Dashboards
+Tableau Dashboards
 
-### Sales Dashboard
+1.Sales Dashboard
 - Total Sales
 - Total Orders
 - Monthly Sales Trend
 - Product Performance
 - Payment Type Analysis
-- Customer Insights
 
-### Profit Dashboard
+2. Customer Insights
+
+3.Profit Dashboard
 - Total Revenue
 - Estimated Cost
 - Estimated Profit
@@ -98,7 +99,7 @@ The Gold layer is designed for analytics using a **Star Schema**.
 
 ---
 
-## SQL Concepts Used
+SQL Concepts Used:
 
 - SELECT
 - JOIN & LEFT JOIN
@@ -112,7 +113,7 @@ The Gold layer is designed for analytics using a **Star Schema**.
 
 ---
 
-## Key Learning Outcomes
+Key Learning Outcomes:
 
 - Data Warehousing
 - Medallion Architecture
@@ -124,8 +125,8 @@ The Gold layer is designed for analytics using a **Star Schema**.
 
 ---
 
-## Author
+Author
 
-**ABITHASHRI PS**
+ABITHASHRI PS
 
 
