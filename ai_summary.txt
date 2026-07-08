@@ -1,0 +1,42 @@
+
+======================================================
+📈 AI STOCK MARKET SUMMARY
+======================================================
+
+🏆 Top Gainer
+NVDA
+Daily Return : 2.37 %
+
+------------------------------------------------------
+
+📉 Top Loser
+INTC
+Daily Return : -5.08 %
+
+------------------------------------------------------
+
+💰 Average Closing Price
+
+$260.74
+
+------------------------------------------------------
+
+📦 Total Trading Volume
+
+687,689,200
+
+------------------------------------------------------
+
+🤖 AI Market Insight
+
+• The market displayed mixed performance across sectors.
+
+• NVDA showed the strongest daily momentum.
+
+• INTC experienced the largest decline.
+
+• High trading volumes indicate active investor participation.
+
+• Monitoring moving averages and daily returns helps identify short-term market trends.
+
+======================================================
